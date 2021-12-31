@@ -16,6 +16,7 @@ import com.qingmei2.sample.ui.MainActivity
 import com.qingmei2.sample.utils.toast
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.android.synthetic.main.fragment_login.*
+import kotlinx.android.synthetic.main.fragment_test.*
 import retrofit2.HttpException
 
 @AndroidEntryPoint

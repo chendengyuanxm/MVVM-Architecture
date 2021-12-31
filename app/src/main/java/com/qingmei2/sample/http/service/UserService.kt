@@ -6,6 +6,7 @@ import com.qingmei2.sample.entity.SearchResult
 import com.qingmei2.sample.entity.UserInfo
 import retrofit2.Response
 import retrofit2.http.*
+import java.util.*
 
 interface UserService {
 
